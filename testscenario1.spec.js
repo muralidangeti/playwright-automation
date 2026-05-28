@@ -1,7 +1,7 @@
 const { test, expect } = require('@playwright/test');
 const { TIMEOUT } = require('dns');
 
-
+let a = murali;
 //Setup
 const BASE_URL = "https://eventhub.rahulshettyacademy.com";
 const user_email = "sidhu@gmail.com";
